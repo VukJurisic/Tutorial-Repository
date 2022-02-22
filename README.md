@@ -2,7 +2,7 @@
 
 ## Description
 
-To see if i can learn something.
+To see if i can learn something. I am already learning a bit.
 
 ## Goals
 
